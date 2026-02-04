@@ -16,11 +16,14 @@ The result is a fast, intelligent Q&A system that explains *why* an answer was r
 🔗 **Streamlit App:**  
 https://ai-semantic-search-cpxebcxqckm6dqvtq4mnbc.streamlit.app/
 
-## 📸 Screenshots
+### 🏠 Home Screen
+![BrainyAI Home](brainyai home.png)
 
-brainyai home.png
-brainyai search query.png
-brainyai setting.png
+### 🔍 Search Query Example
+![BrainyAI Search](brainyai search query.png)
+
+### ⚙️ Settings Panel
+![BrainyAI Settings](brainyai setting.png)
 ## What it does
 - ✅ ChatGPT-style Q&A for *any* question
 - ✅ Optional web lookup (DuckDuckGo) for supporting sources
