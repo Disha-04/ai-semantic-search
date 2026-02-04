@@ -1,10 +1,14 @@
-# BrainyAI (Semantic Web Q&A)
+## What BrainyAI Does
 
-A minimal, recruiter-friendly AI assistant that answers **general questions** like ChatGPT and can optionally use **web sources (DuckDuckGo)** for fresher context — deployed with Streamlit.
+BrainyAI allows users to ask **natural language questions** and receive **context-aware answers** powered by semantic understanding rather than keyword matching.
 
-**Live Demo:** https://ai-semantic-search-cpxebcxqckm6dqvtq4mnbc.streamlit.app/
+It works by:
+- Converting user queries into **vector embeddings**
+- Searching semantically relevant documents using **FAISS**
+- Using a **large language model (Groq)** to generate concise answers
+- Optionally enhancing answers with **real-time web sources (DuckDuckGo)**
 
----
+The result is a fast, intelligent Q&A system that explains *why* an answer was returned and, when enabled, shows **supporting sources**.
 
 ## What it does
 - ✅ ChatGPT-style Q&A for *any* question
