@@ -18,13 +18,9 @@ https://ai-semantic-search-cpxebcxqckm6dqvtq4mnbc.streamlit.app/
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-![BrainyAI Home](brainyai home.png)
-### 🔍 Search Query Example
-![BrainyAI Home](brainyai seaarch query.png)
-
-### ⚙️ Settings Panel
-![BrainyAI Home](brainyai setting.png)
+brainyai home.png
+brainyai search query.png
+brainyai setting.png
 ## What it does
 - ✅ ChatGPT-style Q&A for *any* question
 - ✅ Optional web lookup (DuckDuckGo) for supporting sources
