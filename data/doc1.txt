@@ -1,0 +1,2 @@
+
+Built ETL pipelines using Python and SQL and automated reporting workflows for reporting and dashboards.
