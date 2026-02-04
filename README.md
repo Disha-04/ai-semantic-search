@@ -1,3 +1,5 @@
+
+
 ## What BrainyAI Does
 
 BrainyAI allows users to ask **natural language questions** and receive **context-aware answers** powered by semantic understanding rather than keyword matching.
@@ -9,6 +11,11 @@ It works by:
 - Optionally enhancing answers with **real-time web sources (DuckDuckGo)**
 
 The result is a fast, intelligent Q&A system that explains *why* an answer was returned and, when enabled, shows **supporting sources**.
+
+## 🚀 Live Demo
+🔗 **Streamlit App:**  
+https://ai-semantic-search-cpxebcxqckm6dqvtq4mnbc.streamlit.app/
+
 
 ## What it does
 - ✅ ChatGPT-style Q&A for *any* question
