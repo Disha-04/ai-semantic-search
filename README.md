@@ -20,7 +20,7 @@ https://ai-semantic-search-cpxebcxqckm6dqvtq4mnbc.streamlit.app/
 ![BrainyAI Home](brainyai home.png)
 
 ### 🔍 Search Query Example
-![BrainyAI Search](brainyai search query.png)
+!brainyai_search_query.png
 
 ### ⚙️ Settings Panel
 ![BrainyAI Settings](brainyai setting.png)
